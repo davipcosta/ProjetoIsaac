@@ -46,7 +46,7 @@ git clone https://github.com/seu-repositorio/projeto-rpg.git
 
 Configurar o Banco de Dados
 Criar o banco no MySQL.
-Importar o script jogoIsaac.sql.
+Importar o script banco-jogo.sql.
 Ajustar usuário e senha no arquivo ConnectionProvider.java.
 
 Rodar o Projeto no NetBeans
