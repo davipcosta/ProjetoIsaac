@@ -38,3 +38,20 @@ O projeto utiliza MySQL para armazenar:
 Dados de jogadores (login, senha, etc.)
 Dados de personagens (nome, atributos, HP, mana, habilidades)
 Resultados das batalhas
+
+🚀 Como Executar
+
+Clonar o repositório
+git clone https://github.com/seu-repositorio/projeto-rpg.git
+
+Configurar o Banco de Dados
+Criar o banco no MySQL.
+Importar o script jogoIsaac.sql.
+Ajustar usuário e senha no arquivo ConnectionProvider.java.
+
+Rodar o Projeto no NetBeans
+Abrir o projeto no NetBeans.
+Executar a classe MenuPrincipal.java.
+
+📌 Observações
+Este projeto é acadêmico e tem como foco a aplicação prática de estruturas de dados e persistência em banco de dados, não sendo um jogo comercial.
